@@ -1,4 +1,40 @@
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 function addingEventListener() {
     const input = document.getElementById('input');
 
@@ -8,3 +44,4 @@ function clickAlert() {
 
 input.addEventListener('click', clickAlert); 
 }
+
